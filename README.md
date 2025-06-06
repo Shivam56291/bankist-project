@@ -6,7 +6,7 @@ Just completed the Bankist App project as part of the DOM manipulation section i
 
 🛠️ Built using HTML, CSS, and Vanilla JavaScript — no frameworks, just raw DOM power!
 
-🖥️ Live Demo: []
-📂 GitHub Repo: [https://github.com/Shivam56291/bankist-project.git]
+### 🖥️ Live Demo: [https://shivam56291.github.io/bankist-project/]
+### 📂 GitHub Repo: [https://github.com/Shivam56291/bankist-project.git]
 
 This was a fantastic learning experience — especially how to write clean, interactive, and modular front-end code without relying on libraries.
